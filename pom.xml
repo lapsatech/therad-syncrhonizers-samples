@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>lapsatech.concurrent</groupId>
-	<artifactId>samples</artifactId>
+	<artifactId>therad-syncrhonizers-samples</artifactId>
 	<version>0.1-SNAPSHOT</version>
 
 	<properties>
